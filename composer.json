@@ -2,7 +2,6 @@
     "name": "php-stipes/php-logging",
     "description": "Common interface for logging libraries",
     "keywords": ["php-stipes-logging", "ps-log", "log"],
-    "version": "1.1.1",
     "homepage": "https://github.com/php-stipes/php-logging",
     "license": "Apache-2.0",
     "authors": [
@@ -19,7 +18,7 @@
     },
     "extra": {
         "branch-alias": {
-            "stable": "1.2.0"
+            "stable": "1.0.0-dev"
         }
     }
 }
