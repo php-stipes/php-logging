@@ -15,10 +15,5 @@
     },
     "autoload": {
         "files": ["src/library/functions.php"]
-    },
-    "extra": {
-        "branch-alias": {
-            "stable": "1.1.1-dev"
-        }
     }
 }
